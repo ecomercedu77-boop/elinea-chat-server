@@ -1,0 +1,13 @@
+{
+  "name": "elinea-chat-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "openai": "^4.30.0"
+  }
+}
